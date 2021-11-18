@@ -40,7 +40,6 @@
 #ifdef SWITCHABLE_ENGINES
 	}
 #endif
-#endif
 
 #ifdef PLAYER_BOOTEE
 #ifdef SWITCHABLE_ENGINES
@@ -75,4 +74,5 @@
 		}
 #ifdef SWITCHABLE_ENGINES
 	}
+#endif
 #endif
