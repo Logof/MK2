@@ -213,10 +213,10 @@ void mueve_bicharracos (void) {
 			}
 
 			// Render
-			#include "engine\enemmods\render.h"
+			#include "engine/enemmods/render.h"
 
 #ifdef PLAYER_CAN_FIRE
-			#include "engine\enemmods\bullets.h"
+			#include "engine/enemmods/bullets.h"
 #endif
 
 		} else {
